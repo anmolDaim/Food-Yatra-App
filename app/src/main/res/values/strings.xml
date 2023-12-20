@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Food Yatra App</string>
+    <string name="next">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //
+    <string name="default_web_client_id">24327553892-s8peqnq2pgqkg5an1u7l15sr6dubkn81.apps.googleusercontent.com</string>
+
+</resources>

@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "24327553892",
+    "firebase_url": "https://food-yatra-8e70b-default-rtdb.firebaseio.com",
+    "project_id": "food-yatra-8e70b",
+    "storage_bucket": "food-yatra-8e70b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24327553892:android:f191861bcdec8e69bcf071",
+        "android_client_info": {
+          "package_name": "com.example.adminfoodyatra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24327553892-s8peqnq2pgqkg5an1u7l15sr6dubkn81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminfoodyatra",
+            "certificate_hash": "749ae680f82788f7885677c28786a5ebfe1e2937"
+          }
+        },
+        {
+          "client_id": "24327553892-rdese2ppb1349p91uplcpdng1bi7rrcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeXSto7JtxOB2L6Q8ze1TxqOyUiTb5TPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24327553892-rdese2ppb1349p91uplcpdng1bi7rrcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24327553892:android:37519cac8c560ce3bcf071",
+        "android_client_info": {
+          "package_name": "com.example.foodyatraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24327553892-rdese2ppb1349p91uplcpdng1bi7rrcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeXSto7JtxOB2L6Q8ze1TxqOyUiTb5TPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24327553892-rdese2ppb1349p91uplcpdng1bi7rrcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
